@@ -645,6 +645,11 @@ articles:
   version: 2.69.4
   title: How chezmoi Transformed My Dotfile Management Across Multiple Systems
   url: https://medium.com/@tiomothybryant3/how-chezmoi-transformed-my-dotfile-management-across-multiple-systems-0db4029b518e
+- date: '2026-02-07'
+  version: 2.69.4
+  lang: FR
+  title: Mon environnement de développement avec mise et chez-moi
+  url: https://david.drugeon-hamon.bzh/blog/2026/02/env-dev-avec-mise-et-chezmoi/
 - date: '2026-02-13'
   version: 2.69.4
   title: I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi
